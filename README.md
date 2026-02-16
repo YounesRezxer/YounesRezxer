@@ -35,15 +35,14 @@ Android Developer (Jetpack Compose) | Security Enthusiast | YouTuber
 ---
 
 ### 🌐 Connect with Me
-### 🌐 Connect with Me
 <p>
   <a href="https://www.youtube.com/@Codeing_Nest" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Codeing_Nest-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Codeing_Nest-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUNES.LOHRABI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://t.me/YOUNES_LOHRABI" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
