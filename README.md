@@ -34,13 +34,6 @@ Android Developer (Jetpack Compose) | Security Enthusiast | YouTuber
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p>
   <a href="https://www.youtube.com/@Codeing_Nest">
