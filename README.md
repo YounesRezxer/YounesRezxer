@@ -16,7 +16,6 @@ Android Developer (Jetpack Compose) | Security Enthusiast | YouTuber
 - 🎨 Building modern UI with Jetpack Compose
 - 🔐 Interested in Security & Ethical Hacking
 - 🎥 YouTube content creator about Programming & Security
-- 📚 Teaching Android & Computer Science basics
 
 ---
 
