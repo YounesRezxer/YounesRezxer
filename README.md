@@ -35,3 +35,7 @@
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,sqlite,git,github"/>
 
 </p>
+---
+<p align="center">
+Keep Learning • Keep Building 🚀
+</p>
