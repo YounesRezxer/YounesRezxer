@@ -14,35 +14,14 @@
 
 ---
 
-# 💫 About Me
+### About Me
 
-```kotlin
-class Younes {
+- 📱 Android Developer using **Kotlin & Jetpack Compose**
+- 🔐 Interested in **Mobile Security**
+- 🌱 Currently learning **Clean Architecture & MVVM**
+- 🎥 Sharing programming content on YouTube
 
-    val role = "Android Developer"
-
-    val language = listOf(
-        "Kotlin",
-        "Java",
-        "Python",
-        "C#"
-    )
-
-    val architecture = listOf(
-        "MVVM",
-        "Clean Architecture",
-        "Jetpack Compose"
-    )
-
-    val interests = listOf(
-        "Android Development",
-        "Mobile Security",
-        "Ethical Hacking",
-        "Open Source"
-    )
-
-}
-```
+---
 
 <div align="center">
 
