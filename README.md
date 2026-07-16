@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Younes Lohrabi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Jetpack+Compose+Specialist;Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Security" />
 
 <br>
 
@@ -17,8 +17,8 @@
 ### About Me
 
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
-- 🔐 Interested in **Mobile Security**
 - 🌱 Currently learning **Clean Architecture & MVVM**
+- 🔐 Interested in Security & Ethical Hacking
 - 🎥 Sharing programming content on YouTube
 
 ---
