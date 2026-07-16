@@ -4,7 +4,7 @@
 
 ### Android Developer • Kotlin • Jetpack Compose
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=450&lines=Building+Modern+Android+Apps;Learning+Mobile+Security;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=450&lines=Building+Modern+Android+Apps;Learning+Security;Open+Source+Enthusiast" />
 
 <br>
 
@@ -26,17 +26,6 @@
 - 🌱 Currently learning **Clean Architecture & MVVM**
 - 🎥 Sharing programming content on YouTube
 
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,git,github" />
-</p>
-
-<p align="center">
-<b>Kotlin</b> • <b>Jetpack Compose</b> • <b>Python</b> • <b>Git</b> • <b>GitHub</b> • <b>Mobile Security</b>
-</p>
 ---
 <p align="center">
 Keep Learning • Keep Building 🚀
