@@ -1,32 +1,53 @@
 <div align="center">
 
-# Hi 👋 I'm Younes
+# 👋 Hey, I'm Younes Lohrabi
 
-### Android Developer • Kotlin • Jetpack Compose
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=450&lines=Building+Modern+Android+Apps;Learning+Security;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Jetpack+Compose+Specialist;Mobile+Security+Enthusiast;Open+Source+Contributor;Content+Creator" />
 
 <br>
 
-<a href="https://www.youtube.com/@Codeing_Nest">
-  <img src="https://img.shields.io/badge/YouTube-Codeing_Nest-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/younes.lohrabi">
-  <img src="https://img.shields.io/badge/Instagram-younes.lohrabi-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-Codeing_Nest-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Codeing_Nest)
+[![Instagram](https://img.shields.io/badge/Instagram-younes.lohrabi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/younes.lohrabi)
+[![Telegram](https://img.shields.io/badge/Telegram-YOUNES__LOHRABI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUNES_LOHRABI)
 
 </div>
 
 ---
 
-### About Me
+# 💫 About Me
 
-- 📱 Android Developer using **Kotlin & Jetpack Compose**
-- 🔐 Interested in **Mobile Security**
-- 🌱 Currently learning **Clean Architecture & MVVM**
-- 🎥 Sharing programming content on YouTube
+```kotlin
+class Younes {
 
----
-<p align="center">
-Keep Learning • Keep Building 🚀
-</p>
+    val role = "Android Developer"
+
+    val language = listOf(
+        "Kotlin",
+        "Java",
+        "Python",
+        "C#"
+    )
+
+    val architecture = listOf(
+        "MVVM",
+        "Clean Architecture",
+        "Jetpack Compose"
+    )
+
+    val interests = listOf(
+        "Android Development",
+        "Mobile Security",
+        "Ethical Hacking",
+        "Open Source"
+    )
+
+}
+```
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</div>
