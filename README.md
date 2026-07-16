@@ -30,10 +30,12 @@
 
 ### Tech Stack
 
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,git,github" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,sqlite,git,github"/>
-
+<p align="center">
+<b>Kotlin</b> • <b>Jetpack Compose</b> • <b>Python</b> • <b>Git</b> • <b>GitHub</b> • <b>Mobile Security</b>
 </p>
 ---
 <p align="center">
