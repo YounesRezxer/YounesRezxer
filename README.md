@@ -23,9 +23,7 @@ class Younes {
 
     val language = listOf(
         "Kotlin",
-        "Java",
-        "Python",
-        "C#"
+        "Python"
     )
 
     val architecture = listOf(
@@ -36,9 +34,7 @@ class Younes {
 
     val interests = listOf(
         "Android Development",
-        "Mobile Security",
-        "Ethical Hacking",
-        "Open Source"
+        "Ethical Hacking"
     )
 
 }
