@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Younes Lohrabi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Jetpack+Compose+Specialist;Mobile+Security+Enthusiast;Open+Source+Contributor;Content+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Jetpack+Compose+Specialist;Security" />
 
 <br>
 
@@ -48,6 +48,5 @@ class Younes {
 
 ## ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
