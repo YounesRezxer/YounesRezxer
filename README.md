@@ -26,7 +26,7 @@
 
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
 - 🔐 Interested in Security & Ethical Hacking — Penetration Testing & Security
-- 🎥 Sharing programming content on YouTube
+- 🎥 Sharing programming and computer science content on YouTube
 
 ---
 
