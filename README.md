@@ -17,7 +17,6 @@
 ### About Me
 
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
-- 🌱 Currently learning **Clean Architecture & MVVM**
 - 🔐 Interested in Security & Ethical Hacking
 - 🎥 Sharing programming content on YouTube
 
