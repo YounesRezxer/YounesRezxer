@@ -1,14 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm Younes 
+# 👋 Hey, I'm Younes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Penetration Testing & Security" />
 
 <br>
 
-[![YouTube](https://img.shields.io/badge/YouTube-Codeing_Nest-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Codeing_Nest)
-[![Instagram](https://img.shields.io/badge/Instagram-younes.lohrabi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/younes.lohrabi)
-[![Telegram](https://img.shields.io/badge/Telegram-YOUNES__LOHRABI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUNES_LOHRABI)
+<a href="https://www.youtube.com/@Codeing_Nest">
+  <img src="https://img.shields.io/badge/YouTube-Codeing_Nest-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/younes.lohrabi">
+  <img src="https://img.shields.io/badge/Instagram-younes.lohrabi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://t.me/YOUNES_LOHRABI">
+  <img src="https://img.shields.io/badge/Telegram-YOUNES__LOHRABI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 </div>
 
@@ -17,7 +25,7 @@
 ### About Me
 
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
-- 🔐 Interested in Security & Ethical Hacking --- Penetration Testing & Security
+- 🔐 Interested in Security & Ethical Hacking — Penetration Testing & Security
 - 🎥 Sharing programming content on YouTube
 
 ---
@@ -25,6 +33,5 @@
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
-
 
 </div>
