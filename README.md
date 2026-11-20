@@ -22,9 +22,11 @@
 
 ### About Me
 
+- 🚀Just a computer lover exploring the world of code
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
 - 🔐 Interested in Security & Ethical Hacking — Penetration Testing & Security
 - 🎥 Sharing programming and computer science content on YouTube
+- 💻 Always Learning, Building, and Exploring Technology.
 
 ---
 
